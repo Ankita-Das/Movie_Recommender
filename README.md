@@ -20,3 +20,6 @@ The other file is for **prediction of ratings** given the user id and the movie 
 And measuring the correctness of the prediction using the root mean square evaluation metric(**RMSE**)  
 Code given **[here](https://github.com/Ankita-Das/Movie_Recommender/blob/master/ratings_predict.ipynb)** 
 
+
+[My Blog about Recommender Systems:](https://ankita-das.github.io/2018-05-01-recommender_system/)
+
